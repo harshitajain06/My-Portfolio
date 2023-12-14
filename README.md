@@ -22,9 +22,10 @@ REQUIRED SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
+
 <div align="center">
 
-  <img src="me.jpg" alt="logo" width="140"  height="auto" />
+ <img src="me.jpg" alt="logo" width="140" height="auto"/>
   <br/>
 
   <h3><b>My Portfolio</b></h3>
